@@ -1,6 +1,3 @@
 {
-  "plugins": [
-      "postcss-import",
-      "postcss-nested"
-  ]
+  "plugins": ["postcss-import"]
 }
